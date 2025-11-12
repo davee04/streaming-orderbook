@@ -11,7 +11,8 @@ yarn install
 
 ## 3 create an env file
 
-REACT_APP_WS_URL=wss://fastapi-orderbook-478451602993.europe-west1.run.app/ws/orderbook
+REACT_APP_WS_URL=your_private_websocket_url_here
+
 
 ## 4 start development server
 
